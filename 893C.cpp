@@ -1,3 +1,8 @@
+// https://codeforces.com/contest/893/problem/C
+
+// In this problem, you are given an undirected graph of people and their friends, as well as how much gold each person wants to spread a rumor. When a person spreads the rumor, they tell all their friends, and their friends tell their friends (for free), and so on. Your task is to tell the least amount of gold required so that everyone knows the rumor.
+
+
 #include <iostream>
 #include <utility>
 #include <vector>
