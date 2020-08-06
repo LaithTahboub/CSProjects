@@ -1,3 +1,5 @@
+// Console-based Snake Game for Windows only. 
+
 #include <iostream>
 #include <conio.h>
 
